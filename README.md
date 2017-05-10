@@ -2,7 +2,7 @@
 ## Node ~ Express ~ Handlebars
 
 ## Live Link
- - https://floating-dusk-50097.herokuapp.com/
+ - https://tranquil-beach-31036.herokuapp.com
 
 ### Overview
 
